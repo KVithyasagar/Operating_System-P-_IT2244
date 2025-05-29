@@ -2,4 +2,4 @@
 echo username: %username%
 echo windows version: %version%
 ver
-pause
+pause 

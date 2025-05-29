@@ -17,4 +17,4 @@ mkdir	criteria_4
 cd criteria_4
 mkdir	standard_1
 cd..
-mkdir	criteria_1
+mkdir	criteria_1 

@@ -1,0 +1,21 @@
+1.pwd
+
+2.ls
+
+3.awk
+
+4.sed
+
+5.find
+
+6.ls -ltr
+
+7.ls -a
+
+8.cd
+
+9.cd ..
+
+10.cd
+
+11.

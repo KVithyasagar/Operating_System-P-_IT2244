@@ -1,0 +1,20 @@
+mkdir	criteria_1
+cd criteria_1
+mkdir	standard_1
+mkdir	standard_2
+mkdir	standard_3
+cd..
+mkdir	criteria_2
+cd criteria_2
+mkdir	standard_1
+mkdir	standard_2
+cd..
+mkdir	criteria_3
+cd criteria_3
+mkdir	standard_1
+cd..
+mkdir	criteria_4
+cd criteria_4
+mkdir	standard_1
+cd..
+mkdir	criteria_1

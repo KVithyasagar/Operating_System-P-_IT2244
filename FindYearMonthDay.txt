@@ -1,0 +1,7 @@
+@echo off
+set /p birthyear=Enter Your birth year: 
+for /f "tokens=2 delims==." %%i in ('wmic os get LocalDateTime /value') do set datetime=%%i
+set currentyear=%datetime:~0,4%
+set /a age=%currentyear% - %birthyear%
+echo Your age is %age%.
+pause

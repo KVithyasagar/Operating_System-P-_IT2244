@@ -1,0 +1,35 @@
+1. Get the calender and date
+
+	[2021ict88@fedora ~]$ cal
+     April 2025
+Su Mo Tu We Th Fr Sa
+       1  2  3  4  5
+ 6  7  8  9 10 11 12
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30
+
+
+2.get the student name and marks for the 3 subjects from user then calculate the "Total" and "Average"
+output
+	Enter the name: Isuru
+	Enter the mark for subject 1: 80
+	Enter the mark for subject 2: 90
+	Enter the mark for subject 3: 70
+	total = 240
+	average = 80
+
+3.create calculator with arithmetic operations
+output:
+	Enter the first number: 4
+	Enter the second number: 2
+	summation
+	subtraction
+	division
+	multiplication
+	
+4. enter the number = 5
+  friday
+ 
+	
+	
